@@ -1,0 +1,27 @@
+
+<h1>Funding Case Management</h1>
+<h2>Applications</h2>
+
+@if (isLoading()) {
+  <p>Loading applications...</p>
+}
+
+@if (errorMessage(); as error) {
+  <p role="alert">{{ error }}</p>
+}
+
+@if (!isLoading() && !errorMessage()) {
+  @for (application of applications(); track application.id) {
+    <article>
+      <h3>{{ application.applicantName }}</h3>
+      <p>Amount: {{ application.requestedAmount }} EUR</p>
+      <p>Status: {{ application.status }}</p>
+      <p>
+        Documents:
+        {{ application.documentsAcceptable ? 'Acceptable' : 'Incomplete' }}
+      </p>
+    </article>
+  } @empty {
+    <p>No applications found.</p>
+  }
+}

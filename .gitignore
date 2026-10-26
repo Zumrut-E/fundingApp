@@ -1,0 +1,21 @@
+# Angular / Node
+node_modules/
+.angular/
+dist/
+
+# Java / Maven
+target/
+*.class
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local environment
+.env
+.env.*
+
+.metals/metals.lock.db
+.metals/metals.log
+.metals/metals.mv.db

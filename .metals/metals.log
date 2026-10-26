@@ -1,0 +1,251 @@
+2026.10.22 12:27:18 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\ekinc\funding-case-management' for client Visual Studio Code 1.143.0.
+2026.10.22 12:27:18 INFO  time: initialize in 0.15s
+2026.10.22 12:27:18 INFO  Memory monitor started
+2026.10.22 12:27:23 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.22 12:27:25 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:27:51 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 12:27:51 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:28:17 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 12:28:17 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:28:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:28:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:28:22 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 12:28:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:29:47 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 12:29:47 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:29:52 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.10.22 12:29:52 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+Oct 22, 2026 12:29:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2026.10.22 12:29:52 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.10.22 12:31:01 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.10.22 12:33:56 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+Oct 22, 2026 12:35:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 73
+2026.10.22 12:46:48 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 12:46:48 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:46:49 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.10.22 12:46:49 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java
+Oct 22, 2026 12:46:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+2026.10.22 12:46:49 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\DemoApplication.java. Using fallback presentation compiler.
+2026.10.22 12:46:51 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 12:46:51 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 12:47:00 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+Oct 22, 2026 12:47:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 115
+2026.10.22 12:47:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+Oct 22, 2026 12:47:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 116
+2026.10.22 12:47:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:23 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:47:24 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java
+2026.10.22 12:47:24 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 12:59:57 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:00:09 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 13:00:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 13:00:11 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:00:11 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java
+2026.10.22 13:00:11 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+Oct 22, 2026 1:00:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 146
+2026.10.22 13:00:11 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:00:11 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:13:13 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:13:51 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:13:51 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:13:52 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:13:58 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+2026.10.22 13:13:58 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:44 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:44 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:46 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:46 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:48 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:48 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+Oct 22, 2026 1:19:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+2026.10.22 13:19:48 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:49 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:49 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:49 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:50 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:50 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:51 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:52 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:19:57 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+2026.10.22 13:19:57 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:21:08 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:24 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:24 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:25 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:25 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:25 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:27 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:27 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:27 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:27 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:28 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:29 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:21:33 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java
+2026.10.22 13:21:33 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:24:01 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java
+2026.10.22 13:24:01 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.22 13:24:02 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 13:24:02 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 13:24:04 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.22 13:24:04 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.22 13:24:05 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:24:05 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java
+2026.10.22 13:24:05 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:24:05 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:24:05 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:24:07 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java
+2026.10.22 13:24:07 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.22 13:24:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:24:09 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+Oct 22, 2026 1:24:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 292
+2026.10.22 13:24:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:24:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:24:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:24:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:24:10 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:24:11 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+2026.10.22 13:24:11 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 13:25:07 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 20:19:53 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 20:20:06 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 20:20:06 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 20:20:10 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+Oct 22, 2026 8:20:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 312
+2026.10.22 20:20:12 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 20:20:23 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.22 20:20:28 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.23 00:02:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.23 00:04:33 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.23 00:11:50 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.23 00:22:05 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.23 09:49:52 INFO  Shutting down server
+2026.10.23 09:49:52 INFO  Memory monitor stopped
+2026.10.23 09:49:52 INFO  shutting down Metals
+2026.10.23 09:49:52 INFO  Exiting server
+2026.10.24 01:10:01 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\ekinc\funding-case-management' for client Visual Studio Code 1.143.0.
+2026.10.24 01:10:01 INFO  Memory monitor started
+2026.10.24 01:10:03 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.24 01:10:03 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.24 01:10:04 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.24 01:10:13 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+2026.10.24 01:10:13 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.24 01:10:13 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.24 01:11:16 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.24 01:11:16 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 01:11:16 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 01:11:32 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 01:11:32 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 01:11:33 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 18:37:42 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+Oct 24, 2026 6:37:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 58
+2026.10.24 18:37:42 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 18:37:42 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 18:37:45 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 18:37:45 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 18:37:47 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.24 18:37:47 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 20:34:35 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+Oct 25, 2026 8:34:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 77
+2026.10.25 20:34:35 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 20:35:03 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:03 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java
+Oct 25, 2026 8:35:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 110
+2026.10.25 20:35:04 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:04 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:16 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+Oct 25, 2026 8:35:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 122
+2026.10.25 20:35:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:28 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:35:28 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java
+2026.10.25 20:35:28 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+Oct 25, 2026 8:35:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 127
+2026.10.25 20:35:28 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:35:28 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:35:29 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:35:36 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:35:37 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+Oct 25, 2026 8:35:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 139
+2026.10.25 20:35:36 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:35:37 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:35:36 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:35:38 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:35:59 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:35:59 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java
+Oct 25, 2026 8:35:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 149
+2026.10.25 20:35:59 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationController.java. Using fallback presentation compiler.
+2026.10.25 20:36:03 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:03 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java
+Oct 25, 2026 8:36:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
+2026.10.25 20:36:03 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:03 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:03 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:07 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:07 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+Oct 25, 2026 8:36:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+2026.10.25 20:36:07 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:07 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:07 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:09 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java
+2026.10.25 20:36:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:09 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationRepository.java. Using fallback presentation compiler.
+2026.10.25 20:36:10 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:10 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java
+2026.10.25 20:36:10 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:10 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:10 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 20:36:12 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplicationService.java. Using fallback presentation compiler.
+2026.10.25 21:42:13 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.25 21:42:13 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:13 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+Oct 25, 2026 9:42:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 194
+2026.10.25 21:42:13 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:19 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:21 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:22 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:24 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:24 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+2026.10.25 21:42:26 WARN  no build target for: C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java
+2026.10.25 21:42:26 INFO  no build target found for C:\Users\ekinc\funding-case-management\backend\src\main\java\com\example\demo\funding\FundingApplication.java. Using fallback presentation compiler.
+Oct 25, 2026 10:20:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
