@@ -1,1 +1,25 @@
-<p>application-review works!</p>
+<main class="review-page">
+  <p>Funding Case Management</p>
+
+  <h1>Review application #{{ applicationId }}</h1>
+
+  <p>Review workflow is planned but not implemented yet.</p>
+
+  <div class="review-actions">
+    <button mat-flat-button disabled>
+      Approve
+    </button>
+
+    <button mat-stroked-button disabled>
+      Reject
+    </button>
+
+    <button mat-stroked-button disabled>
+      Request additional documents
+    </button>
+  </div>
+
+  <a mat-button routerLink="/applications">
+    Back to applications
+  </a>
+</main>

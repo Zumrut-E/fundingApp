@@ -1,5 +1,4 @@
 export type ApplicationStatus =
-  | 'SUBMITTED'
   | 'UNDER_REVIEW'
   | 'APPROVED'
   | 'REJECTED';

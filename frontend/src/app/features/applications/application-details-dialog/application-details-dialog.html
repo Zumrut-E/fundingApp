@@ -1,1 +1,33 @@
-<p>application-details-dialog works!</p>
+<h2 mat-dialog-title>{{ application.applicantName }}</h2>
+
+<mat-dialog-content>
+  <p>Application #{{ application.id }}</p>
+
+  <dl>
+    <dt>Requested amount</dt>
+    <dd>{{ application.requestedAmount | currency:'EUR' }}</dd>
+
+    <dt>Status</dt>
+    <dd>{{ application.status.replaceAll('_', ' ') }}</dd>
+
+    <dt>First-time applicant</dt>
+    <dd>{{ application.firstTimeApplicant ? 'Yes' : 'No' }}</dd>
+
+    <dt>Documents</dt>
+    <dd>
+      {{ application.documentsAcceptable ? 'Acceptable' : 'Incomplete' }}
+    </dd>
+  </dl>
+</mat-dialog-content>
+
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Close</button>
+
+  <a
+    mat-flat-button
+    [routerLink]="['/applications', application.id, 'review']"
+    [mat-dialog-close]="true"
+  >
+    Review application
+  </a>
+</mat-dialog-actions>

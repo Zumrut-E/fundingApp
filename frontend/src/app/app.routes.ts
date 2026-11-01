@@ -1,5 +1,9 @@
-
 import { Routes } from '@angular/router';
+
+import { ApplicationList } from
+  './features/applications/application-list/application-list';
+import { ApplicationReview } from
+  './features/applications/application-review/application-review';
 
 export const routes: Routes = [
   {
@@ -9,8 +13,10 @@ export const routes: Routes = [
   },
   {
     path: 'applications',
-    loadComponent: () =>
-      import('./features/applications/application-list/application-list')
-        .then(m => m.ApplicationList)
+    component: ApplicationList
+  },
+  {
+    path: 'applications/:id/review',
+    component: ApplicationReview
   }
 ];
