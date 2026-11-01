@@ -1,6 +1,21 @@
 <h1>Funding Case Management</h1>
 <h2>Applications</h2>
 
+<label for="status-filter">Filter by status:</label>
+
+<select
+  id="status-filter"
+  #statusFilter
+  [value]="selectedStatus()"
+  (change)="selectedStatus.set($any(statusFilter.value))"
+>
+  <option value="ALL">All</option>
+  <option value="SUBMITTED">Submitted</option>
+  <option value="UNDER_REVIEW">Under Review</option>
+  <option value="APPROVED">Approved</option>
+  <option value="REJECTED">Rejected</option>
+</select>
+
 @if (isLoading()) {
   <p>Loading applications...</p>
 }
@@ -10,17 +25,20 @@
 }
 
 @if (!isLoading() && !errorMessage()) {
-  @for (application of applications(); track application.id) {
+  @for (application of filteredApplications(); track application.id) {
     <article>
       <h3>{{ application.applicantName }}</h3>
+
       <p>Amount: {{ application.requestedAmount }} EUR</p>
+
       <p>Status: {{ application.status }}</p>
+
       <p>
         Documents:
         {{ application.documentsAcceptable ? 'Acceptable' : 'Incomplete' }}
       </p>
     </article>
   } @empty {
-    <p>No applications found.</p>
+    <p>No applications match the selected status.</p>
   }
 }

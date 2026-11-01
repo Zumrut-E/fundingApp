@@ -2,7 +2,7 @@ import { Component, OnInit, inject, signal } from '@angular/core';
 import { finalize } from 'rxjs';
 
 import { ApplicationService } from '../../../services/application.service';
-import { FundingApplication } from '../../../models/application.model';
+import { FundingApplication,ApplicationStatus } from '../../../models/application.model';
 
 @Component({
   selector: 'app-application-list',
@@ -16,6 +16,7 @@ export class ApplicationList implements OnInit {
 
   applications = signal<FundingApplication[]>([]);
   isLoading = signal(false);
+  selectedStatus = signal<ApplicationStatus | 'ALL'>('ALL');
   errorMessage = signal<string | null>(null);
 
   ngOnInit(): void {
@@ -38,4 +39,3 @@ export class ApplicationList implements OnInit {
       });
   }
 }
-
