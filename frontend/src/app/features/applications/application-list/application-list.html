@@ -1,44 +1,87 @@
-<h1>Funding Case Management</h1>
-<h2>Applications</h2>
+<main class="page">
+  <header>
+    <h1>Funding Case Management</h1>
+    <p>Overview of funding applications</p>
+  </header>
 
-<label for="status-filter">Filter by status:</label>
+  <section aria-labelledby="applications-heading">
+    <div class="list-header">
+      <h2 id="applications-heading">Applications</h2>
 
-<select
-  id="status-filter"
-  #statusFilter
-  [value]="selectedStatus()"
-  (change)="selectedStatus.set($any(statusFilter.value))"
->
-  <option value="ALL">All</option>
-  <option value="SUBMITTED">Submitted</option>
-  <option value="UNDER_REVIEW">Under Review</option>
-  <option value="APPROVED">Approved</option>
-  <option value="REJECTED">Rejected</option>
-</select>
+      <mat-form-field appearance="outline">
+        <mat-label>Filter by status</mat-label>
 
-@if (isLoading()) {
-  <p>Loading applications...</p>
-}
+        <mat-select
+          [value]="selectedStatus()"
+          (selectionChange)="selectedStatus.set($event.value)"
+        >
+          <mat-option value="ALL">All</mat-option>
+          <mat-option value="SUBMITTED">Submitted</mat-option>
+          <mat-option value="UNDER_REVIEW">Under Review</mat-option>
+          <mat-option value="APPROVED">Approved</mat-option>
+          <mat-option value="REJECTED">Rejected</mat-option>
+        </mat-select>
+      </mat-form-field>
+    </div>
 
-@if (errorMessage(); as error) {
-  <p role="alert">{{ error }}</p>
-}
+    @if (isLoading()) {
+      <p role="status">Loading applications...</p>
+    }
 
-@if (!isLoading() && !errorMessage()) {
-  @for (application of filteredApplications(); track application.id) {
-    <article>
-      <h3>{{ application.applicantName }}</h3>
+    @if (errorMessage(); as error) {
+      <p role="alert">{{ error }}</p>
+    }
 
-      <p>Amount: {{ application.requestedAmount }} EUR</p>
+    @if (!isLoading() && !errorMessage()) {
+      <div class="table-container">
+        <table
+          mat-table
+          [dataSource]="filteredApplications()"
+          aria-label="Funding applications"
+        >
+          <ng-container matColumnDef="applicantName">
+            <th mat-header-cell *matHeaderCellDef>Applicant</th>
+            <td mat-cell *matCellDef="let application">
+              {{ application.applicantName }}
+            </td>
+          </ng-container>
 
-      <p>Status: {{ application.status }}</p>
+          <ng-container matColumnDef="requestedAmount">
+            <th mat-header-cell *matHeaderCellDef>Requested amount</th>
+            <td mat-cell *matCellDef="let application">
+              {{ application.requestedAmount | currency:'EUR' }}
+            </td>
+          </ng-container>
 
-      <p>
-        Documents:
-        {{ application.documentsAcceptable ? 'Acceptable' : 'Incomplete' }}
-      </p>
-    </article>
-  } @empty {
-    <p>No applications match the selected status.</p>
-  }
-}
+          <ng-container matColumnDef="status">
+            <th mat-header-cell *matHeaderCellDef>Status</th>
+            <td mat-cell *matCellDef="let application">
+              <span
+                class="status"
+                [class]="'status status--' + application.status"
+              >
+                {{ application.status.replaceAll('_', ' ') }}
+              </span>
+            </td>
+          </ng-container>
+
+          <ng-container matColumnDef="documents">
+            <th mat-header-cell *matHeaderCellDef>Documents</th>
+            <td mat-cell *matCellDef="let application">
+              {{ application.documentsAcceptable ? 'Acceptable' : 'Incomplete' }}
+            </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+
+          <tr *matNoDataRow>
+            <td class="empty-message" [attr.colspan]="displayedColumns.length">
+              No applications match the selected status.
+            </td>
+          </tr>
+        </table>
+      </div>
+    }
+  </section>
+</main>

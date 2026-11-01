@@ -1,0 +1,94 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background: #f5f7fa;
+  color: #182230;
+}
+
+.page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+header {
+  margin-bottom: 32px;
+
+  h1 {
+    margin: 0 0 8px;
+    font-size: clamp(26px, 4vw, 36px);
+    font-weight: 600;
+  }
+
+  p {
+    margin: 0;
+    color: #526174;
+  }
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+
+  h2 {
+    font-size: 22px;
+  }
+}
+
+mat-form-field {
+  width: 240px;
+}
+
+.table-container {
+  overflow-x: auto;
+  border: 1px solid #e1e6ed;
+  border-radius: 12px;
+  background: white;
+}
+
+table {
+  width: 100%;
+  min-width: 680px;
+}
+
+th {
+  font-weight: 600;
+}
+
+.status {
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.status--SUBMITTED {
+  background: #e8eefb;
+  color: #244b93;
+}
+
+.status--UNDER_REVIEW {
+  background: #fff2cf;
+  color: #795500;
+}
+
+.status--APPROVED {
+  background: #e3f3e8;
+  color: #22643b;
+}
+
+.status--REJECTED {
+  background: #fce7e7;
+  color: #a12626;
+}
+
+.empty-message {
+  padding: 32px;
+  text-align: center;
+  color: #526174;
+}
